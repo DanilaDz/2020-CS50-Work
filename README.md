@@ -1,2 +1,2 @@
 # 2020-CS50-Work
-Here are all the code I wrote for the 2020 CS50 Harvard class.
+Here is all the code I wrote for the 2020 CS50 Harvard class.
